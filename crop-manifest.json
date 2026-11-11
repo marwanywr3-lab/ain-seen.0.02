@@ -1,0 +1,452 @@
+[
+  {
+    "categoryId": "c01",
+    "sheet": "sheet-1.png",
+    "bounds": [
+      0,
+      0,
+      397,
+      396
+    ],
+    "size": [
+      397,
+      396
+    ],
+    "sha256": "2e7dba7aaf225c8f0e08433c40e0d2711aa861f8b121f9f7c9a3f8ffb90d532b"
+  },
+  {
+    "categoryId": "c02",
+    "sheet": "sheet-1.png",
+    "bounds": [
+      397,
+      0,
+      793,
+      396
+    ],
+    "size": [
+      396,
+      396
+    ],
+    "sha256": "0b2f585eaf3d6c377bf1e65581b2224435c369499e9252b22a92074bae44f830"
+  },
+  {
+    "categoryId": "c03",
+    "sheet": "sheet-1.png",
+    "bounds": [
+      793,
+      0,
+      1190,
+      396
+    ],
+    "size": [
+      397,
+      396
+    ],
+    "sha256": "41d9b91bac1f634d700ac4359303eaf600282b6e8b2ca9ac66826b76412626d0"
+  },
+  {
+    "categoryId": "c04",
+    "sheet": "sheet-1.png",
+    "bounds": [
+      1190,
+      0,
+      1586,
+      396
+    ],
+    "size": [
+      396,
+      396
+    ],
+    "sha256": "bdcd961a1dab0ba804dc90189f1ee983976b160c8307b092b538e278dc3e00de"
+  },
+  {
+    "categoryId": "c05",
+    "sheet": "sheet-1.png",
+    "bounds": [
+      1586,
+      0,
+      1983,
+      396
+    ],
+    "size": [
+      397,
+      396
+    ],
+    "sha256": "0313e0ae0e1a4dd9948a691c3d30a1aa12f822fca4084360b8081501c185a6dd"
+  },
+  {
+    "categoryId": "c06",
+    "sheet": "sheet-1.png",
+    "bounds": [
+      0,
+      396,
+      397,
+      793
+    ],
+    "size": [
+      397,
+      397
+    ],
+    "sha256": "dd0068d2caef3f15e3417acfbdc19055bd6564fb4ba7962bb0a81f439011c2bf"
+  },
+  {
+    "categoryId": "c07",
+    "sheet": "sheet-1.png",
+    "bounds": [
+      397,
+      396,
+      793,
+      793
+    ],
+    "size": [
+      396,
+      397
+    ],
+    "sha256": "622bfa32b8020cf7759908e0e56a76eb9402df126d25d1cf1cc63cb881f71cad"
+  },
+  {
+    "categoryId": "c08",
+    "sheet": "sheet-1.png",
+    "bounds": [
+      793,
+      396,
+      1190,
+      793
+    ],
+    "size": [
+      397,
+      397
+    ],
+    "sha256": "9b97c11325af9811a4ca6374fcf459763a6d29ad376e6c4063adece15179979d"
+  },
+  {
+    "categoryId": "c09",
+    "sheet": "sheet-1.png",
+    "bounds": [
+      1190,
+      396,
+      1586,
+      793
+    ],
+    "size": [
+      396,
+      397
+    ],
+    "sha256": "bc2165d600a04f037f2d1b3b96a79590e4c328638ec5ffd0296bcc2eb37304c3"
+  },
+  {
+    "categoryId": "c10",
+    "sheet": "sheet-1.png",
+    "bounds": [
+      1586,
+      396,
+      1983,
+      793
+    ],
+    "size": [
+      397,
+      397
+    ],
+    "sha256": "50a7cc857de1ff60ff5a7690f003ea7896d8ee6eff8e055f2ec098ac0bdb5b78"
+  },
+  {
+    "categoryId": "c11",
+    "sheet": "sheet-2.png",
+    "bounds": [
+      0,
+      0,
+      397,
+      396
+    ],
+    "size": [
+      397,
+      396
+    ],
+    "sha256": "a513ea37031070bdeb15802ef33a6ee262eda702442f4f1bcbc3c15a80143b3e"
+  },
+  {
+    "categoryId": "c12",
+    "sheet": "sheet-2.png",
+    "bounds": [
+      397,
+      0,
+      793,
+      396
+    ],
+    "size": [
+      396,
+      396
+    ],
+    "sha256": "1eb05e24d0081731ec797a5578aadc2c7aa84498d02f58a664282320aac045dc"
+  },
+  {
+    "categoryId": "c13",
+    "sheet": "sheet-2.png",
+    "bounds": [
+      793,
+      0,
+      1190,
+      396
+    ],
+    "size": [
+      397,
+      396
+    ],
+    "sha256": "6c8b1ab880f15e5893f84d6b1c1573995574d7bd36c651591f524e17a31d89fd"
+  },
+  {
+    "categoryId": "c14",
+    "sheet": "sheet-2.png",
+    "bounds": [
+      1190,
+      0,
+      1586,
+      396
+    ],
+    "size": [
+      396,
+      396
+    ],
+    "sha256": "5799fb23fbc98be2d12dd8912e0a3b3608dfc51e524c7de7131b4a3b726857de"
+  },
+  {
+    "categoryId": "c15",
+    "sheet": "sheet-2.png",
+    "bounds": [
+      1586,
+      0,
+      1983,
+      396
+    ],
+    "size": [
+      397,
+      396
+    ],
+    "sha256": "3552b3a10b15298f1c29d4bb04998dd7aebc8e6962806ebe61ecccdef71d2dcd"
+  },
+  {
+    "categoryId": "c16",
+    "sheet": "sheet-2.png",
+    "bounds": [
+      0,
+      396,
+      397,
+      793
+    ],
+    "size": [
+      397,
+      397
+    ],
+    "sha256": "028bed79b0d222eaa133ecde3fc3ef7bc51cab6a40314d0252c6a86b134e1128"
+  },
+  {
+    "categoryId": "c17",
+    "sheet": "sheet-2.png",
+    "bounds": [
+      397,
+      396,
+      793,
+      793
+    ],
+    "size": [
+      396,
+      397
+    ],
+    "sha256": "9df4db42c9dbda6f1cc48e2b948f1b41efc22432c9a1df6fd2e31c49fdfae205"
+  },
+  {
+    "categoryId": "c18",
+    "sheet": "sheet-2.png",
+    "bounds": [
+      793,
+      396,
+      1190,
+      793
+    ],
+    "size": [
+      397,
+      397
+    ],
+    "sha256": "7adc786680917cede0b70616821f33c7aaa44e57a28ee88016151dc3fd1c94a5"
+  },
+  {
+    "categoryId": "c19",
+    "sheet": "sheet-2.png",
+    "bounds": [
+      1190,
+      396,
+      1586,
+      793
+    ],
+    "size": [
+      396,
+      397
+    ],
+    "sha256": "62f4e12c36b7b86ac0673e674e3c3a9184e549d3a8499840da65a1d63bc0c969"
+  },
+  {
+    "categoryId": "c20",
+    "sheet": "sheet-2.png",
+    "bounds": [
+      1586,
+      396,
+      1983,
+      793
+    ],
+    "size": [
+      397,
+      397
+    ],
+    "sha256": "ee2e20908e725dcb8b328b5bbb9b1a79baddaae4cec21d89415971a7cf769af7"
+  },
+  {
+    "categoryId": "c21",
+    "sheet": "sheet-3.png",
+    "bounds": [
+      0,
+      0,
+      397,
+      396
+    ],
+    "size": [
+      397,
+      396
+    ],
+    "sha256": "7b45e38ec6be315fa0a598a7d7c42d37ba088266c7a68c1dc0f5bd17006f357d"
+  },
+  {
+    "categoryId": "c22",
+    "sheet": "sheet-3.png",
+    "bounds": [
+      397,
+      0,
+      793,
+      396
+    ],
+    "size": [
+      396,
+      396
+    ],
+    "sha256": "d58977c4f5e695b6e2c08ae8b82298a0b5f3d4f11fd7727c94e002117f5b7d88"
+  },
+  {
+    "categoryId": "c23",
+    "sheet": "sheet-3.png",
+    "bounds": [
+      793,
+      0,
+      1190,
+      396
+    ],
+    "size": [
+      397,
+      396
+    ],
+    "sha256": "40983769b5cca638ef41347893296998e7c3581ffa3fc24c8a3b6a0d21ac75a3"
+  },
+  {
+    "categoryId": "c24",
+    "sheet": "sheet-3.png",
+    "bounds": [
+      1190,
+      0,
+      1586,
+      396
+    ],
+    "size": [
+      396,
+      396
+    ],
+    "sha256": "205fc5922ab901e0536266f4e54fa2763b894d4550e52f678104b2c2baffbb34"
+  },
+  {
+    "categoryId": "c25",
+    "sheet": "sheet-3.png",
+    "bounds": [
+      1586,
+      0,
+      1983,
+      396
+    ],
+    "size": [
+      397,
+      396
+    ],
+    "sha256": "b4d2e296d6baf4610372035505e75041754871c3c23f0fe70d3e398d2294e5e4"
+  },
+  {
+    "categoryId": "c26",
+    "sheet": "sheet-3.png",
+    "bounds": [
+      0,
+      396,
+      397,
+      793
+    ],
+    "size": [
+      397,
+      397
+    ],
+    "sha256": "fe1073181e410a2739aa33f764f1b6e96ca9c36d82c63c7d2294bff5f9e12efa"
+  },
+  {
+    "categoryId": "c27",
+    "sheet": "sheet-3.png",
+    "bounds": [
+      397,
+      396,
+      793,
+      793
+    ],
+    "size": [
+      396,
+      397
+    ],
+    "sha256": "05370f792b5e045ed09396d67f5b960b2f498d4446f9ec0493b88aec55805296"
+  },
+  {
+    "categoryId": "c28",
+    "sheet": "sheet-3.png",
+    "bounds": [
+      793,
+      396,
+      1190,
+      793
+    ],
+    "size": [
+      397,
+      397
+    ],
+    "sha256": "7d8daf21ea0a63f4eafbc3557020c49ffb0991f192a1cee70d75495ad4b8990f"
+  },
+  {
+    "categoryId": "c29",
+    "sheet": "sheet-3.png",
+    "bounds": [
+      1190,
+      396,
+      1586,
+      793
+    ],
+    "size": [
+      396,
+      397
+    ],
+    "sha256": "c5b9ed565dcd9d9b79c25501e3e0ac949ad01acfdad138a517054d267d867283"
+  },
+  {
+    "categoryId": "c30",
+    "sheet": "sheet-3.png",
+    "bounds": [
+      1586,
+      396,
+      1983,
+      793
+    ],
+    "size": [
+      397,
+      397
+    ],
+    "sha256": "8b054776422b17e87f451339135d276f3cc5ce882e2dc92fdf9214381c0d756a"
+  }
+]

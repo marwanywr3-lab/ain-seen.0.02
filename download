@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env*
+.wrangler/
+.dev.vars*
+*.zip
+
+.worker-build/
+
+wrangler.deploy.json
